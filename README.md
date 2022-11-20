@@ -14,8 +14,6 @@
 <p> Install node modules</p>
 <code> npm install </code>
 
-
-
-<br>
+<p></p>
 <p> Run the Application </p>
 <code> npm start </code>
